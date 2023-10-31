@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **MERN Stack**
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Typescript**
 - 👯 I’m looking - To collaborate on open-source projects.
 - 🤔 I’m trying - To learn and help people with web development.
 - 📫 How to reach me **saifulislamx264@gmail.com**
