@@ -7,11 +7,22 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **MERN Stack**
-- 🌱 I’m currently learning **Typescript, mongoose with Backend**
-- 👯 I’m looking - To collaborate on open-source projects.
-- 🤔 I’m trying - To learn and help people with web development.
-- 📫 How to reach me **saifulislamx264@gmail.com**
+
+<div align="left">
+<a href="https://app.daily.dev/saiful_islam_dev"><img align="right" src="https://api.daily.dev/devcards/5a84ec330c3245f7afb5af1269cf2263.png?r=9v7" width="200" alt="Saiful Islam's Dev Card"/></a>
+</div>
+
+
+### 🔭 I’m currently working on **MERN Stack**
+### 🌱 I’m currently learning **Typescript, mongoose with Backend**
+### 👯 I’m looking - To collaborate on open-source projects.
+### 🤔 I’m trying - To learn and help people with web development.
+### 📫 How to reach me **saifulislamx264@gmail.com**
+ 
+
+
+
+
 
 <!--
 - 💬 Ask me about ...
