@@ -7,30 +7,30 @@
 Here are some ideas to get you started:
 -->
 
-
 <div align="left">
 <a href="https://app.daily.dev/saiful_islam_dev"><img align="right" src="https://api.daily.dev/devcards/5a84ec330c3245f7afb5af1269cf2263.png?r=9v7" width="200" alt="Saiful Islam's Dev Card"/></a>
 </div>
 
-
 ### 🔭 I’m currently working on **MERN Stack**
+
 ### 🌱 I’m currently learning **Typescript, mongoose with Backend**
+
 ### 👯 I’m looking - To collaborate on open-source projects.
+
 ### 🤔 I’m trying - To learn and help people with web development.
+
 ### 📫 How to reach me **saifulislamx264@gmail.com**
- 
-
-
-
-
 
 <!--
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![](https://komarev.com/ghpvc/?username=saiful-islam-dev&style=for-the-badge)
+
 ## connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saiful264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saiful264/" height="30" width="40" /></a>
 <a href="https://fb.com/www.facebook.com/saifulislam264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/saifulislam264" height="30" width="40" /></a>
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 ## :computer: Technologies that I know
+
 <br>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
@@ -55,6 +56,9 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <img src="./img/Typescript_logo.svg.png"/>
+<img src="./img/Prisma-1.png"/>
+<img src="./img/prostgres.png"/>
+<img src="./img/mongoss.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
@@ -78,6 +82,4 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=saiful-islam-dev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" alt="streak graph"  />
 </div>
 
-
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
-
