@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on **MERN Stack**
 
-### 🌱 I’m currently learning **Typescript, mongoose with Backend**
+### 🌱 I’m currently learning **Typescript, next.js, PostgreSQL and prisma**.
 
 ### 👯 I’m looking - To collaborate on open-source projects.
 
