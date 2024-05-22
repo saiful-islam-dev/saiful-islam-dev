@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on **MERN Stack**
 
-### 🌱 I’m currently learning **Typescript, mongoose with Backend**
+### 🌱 I’m currently learning **Typescript, next.js, PostgreSQL and prisma**.
 
 ### 👯 I’m looking - To collaborate on open-source projects.
 
@@ -47,21 +47,25 @@ Here are some ideas to get you started:
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="./img/postman.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="./img/Prisma-1.png"/>
 </p>
 <p align="center">
 <img src="./img/Typescript_logo.svg.png"/>
+
 <img src="./img/Prisma.png"/>
 <img src="./img/prostgres.png"/>
 <img height="60" width="60"  src="./img/images.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="./img/prostgres.png"/>
 </p>
 <p align="center">
 <img src="./img/nextjs.jpg"/>
@@ -75,7 +79,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=fahimahammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&border_radius=0" height="160em" alt="stats graph"  /> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=fahimahammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&border_radius=0" height="160em" alt="stats graph"  /> 
   <br> -->
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saiful-islam-dev&theme=dark" height="163em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiful-islam-dev&theme=dark" height="163em" /> 
