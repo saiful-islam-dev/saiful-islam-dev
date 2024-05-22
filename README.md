@@ -56,12 +56,15 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <img src="./img/Typescript_logo.svg.png"/>
-<img src="./img/Prisma-1.png"/>
+<img src="./img/Prisma.png"/>
 <img src="./img/prostgres.png"/>
-<img src="./img/mongoss.png"/>
+<img height="60" width="60"  src="./img/images.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p>
+<p align="center">
+<img src="./img/nextjs.jpg"/>
 </p>
 <br/>
 
