@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <img src="./img/Typescript_logo.svg.png"/>
-
 <img src="./img/Prisma.png"/>
 <img src="./img/prostgres.png"/>
 <img height="60" width="60"  src="./img/images.png"/>
