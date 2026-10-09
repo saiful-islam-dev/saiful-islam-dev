@@ -10,7 +10,7 @@
 
 * 💻 Passionate about building modern and responsive web applications.
 * 🔭 Currently working with the **MERN Stack**.
-* 🌱 Learning **TypeScript, Next.js, PostgreSQL, and Prisma**.
+* 🌱 Learning **AWS, Docker, TypeScript, Next.js, PostgreSQL, and Prisma**.
 * 🤝 Open to collaborating on open-source projects.
 * 🎯 Focused on writing clean, maintainable code and improving my development skills.
 * 📫 Reach me at **[saifulislamx264@gmail.com](mailto:saifulislamx264@gmail.com)**.
@@ -65,7 +65,7 @@ A task management application for organizing and tracking tasks.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/saiful264/" target="_blank">
+  <a href="https://www.linkedin.com/in/saiful-islam-neloy/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://www.facebook.com/saifulislam264" target="_blank">
