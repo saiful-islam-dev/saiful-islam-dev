@@ -1,89 +1,113 @@
-<!--
-### Hi there 👋 -->
-<h1 align="center">Hi 👋, I'm Saiful Islam</h1>
-
-<!--
-**Saiful264/Saiful264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+# Hi 👋, I'm Saiful Islam
 
 <div align="left">
-<a href="https://app.daily.dev/saiful_islam_dev"><img align="right" src="https://api.daily.dev/devcards/5a84ec330c3245f7afb5af1269cf2263.png?r=9v7" width="200" alt="Saiful Islam's Dev Card"/></a>
+  <a href="https://app.daily.dev/saiful_islam_dev">
+    <img align="right" src="https://api.daily.dev/devcards/5a84ec330c3245f7afb5af1269cf2263.png?r=9v7" width="200" alt="Saiful Islam's Dev Card"/>
+  </a>
 </div>
 
-### 🔭 I’m currently working on **MERN Stack**
+### 👨‍💻 About Me
 
-### 🌱 I’m currently learning **Typescript, next.js, PostgreSQL and prisma**.
+* 💻 Passionate about building modern and responsive web applications.
+* 🔭 Currently working with the **MERN Stack**.
+* 🌱 Learning **TypeScript, Next.js, PostgreSQL, and Prisma**.
+* 🤝 Open to collaborating on open-source projects.
+* 🎯 Focused on writing clean, maintainable code and improving my development skills.
+* 📫 Reach me at **[saifulislamx264@gmail.com](mailto:saifulislamx264@gmail.com)**.
 
-### 👯 I’m looking - To collaborate on open-source projects.
+<br clear="right"/>
 
-### 🤔 I’m trying - To learn and help people with web development.
+---
 
-### 📫 How to reach me **saifulislamx264@gmail.com**
+## 🚀 Technologies & Tools
 
-<!--
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" alt="HTML" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" alt="CSS" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" alt="JavaScript" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" alt="React" height="50"/>
+  <img src="./img/nextjs.jpg" alt="Next.js" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png" alt="Redux" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" alt="Tailwind CSS" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png" alt="Bootstrap" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" alt="Firebase" height="50"/>
+  <img src="./img/Typescript_logo.svg.png" alt="TypeScript" height="50"/>
+  <img src="./img/Prisma.png" alt="Prisma" height="50"/>
+  <img src="./img/prostgres.png" alt="PostgreSQL" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" alt="Node.js" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" alt="Express.js" height="50"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" alt="MongoDB" height="50"/>
+  <img src="./img/postman.png" alt="Postman" height="50"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=saiful-islam-dev&style=for-the-badge)
+---
 
-## connect with me:
+## 🌟 Featured Projects
+
+<!-- Replace the example details with your actual project information. -->
+
+### 1. Titans Arena
+
+A team project built using modern web technologies.
+
+* **Tech Stack:** React, Tailwind CSS, Redux Toolkit, Firebase, Express.js, MongoDB
+* **Live Demo:** https://titans-arena.web.app
+
+### 2. Task Manager
+
+A task management application for organizing and tracking tasks.
+
+* **Tech Stack:** React, Redux, Node.js, Express.js, MongoDB
+* **Live Demo:** https://cosmic-cocada-5ed233.netlify.app
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saiful264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saiful264/" height="30" width="40" /></a>
-<a href="https://fb.com/www.facebook.com/saifulislam264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/saifulislam264" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/saiful_islam0.2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saiful_islam0.2/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/saifulislam02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/saifulislam02/" height="30" width="40" /></a>
-<a href="https://discord.gg/saifulislam2933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saifulislam2933" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/saiful264/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/saifulislam264" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/saiful_islam0.2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/saifulislam02/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://discord.gg/saifulislam2933" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
+  </a>
 </p>
 
-## :computer: Technologies that I know
+📧 **Email:** [saifulislamx264@gmail.com](mailto:saifulislamx264@gmail.com)
 
-<br>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-  <img src="./img/nextjs.jpg"/>
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="./img/Prisma.png"/>
-</p>
-<p align="center">
-<img src="./img/Typescript_logo.svg.png"/>
-<img src="./img/prostgres.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p>
-<p align="center">
-  <img src="./img/postman.png"/>
-  <img height="60" width="60"  src="./img/images.png"/>
-</p>
-<br/>
+---
 
-###
-
-<h3 align="left">🔥  My Stats</h3>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=fahimahammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&border_radius=0" height="160em" alt="stats graph"  /> 
-  <br> -->
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saiful-islam-dev&theme=dark" height="163em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiful-islam-dev&theme=dark" height="163em" /> 
-  <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiful-islam-dev&theme=dark" height="160em" /> 
-  <br>
-  <img src="https://streak-stats.demolab.com?user=saiful-islam-dev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" alt="streak graph"  />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saiful-islam-dev&theme=github_dark" height="165" alt="Most Used Languages"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiful-islam-dev&theme=github_dark" height="165" alt="Languages Per Repository"/>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiful-islam-dev&theme=github_dark" width="95%" alt="GitHub Profile Details"/>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=saiful-islam-dev&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Contribution Streak"/>
+
 </div>
 
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+---
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg" alt="Decorative wave"/>
+
+</div>
