@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://app.daily.dev/saiful_islam_dev">
-    <img align="right" src="https://api.daily.dev/devcards/5a84ec330c3245f7afb5af1269cf2263.png?r=9v7" width="200" alt="Saiful Islam's Dev Card"/>
+    <img align="right" src="./img/91333249.png" width="200" alt="Saiful Islam's Dev Card"/>
   </a>
 </div>
 
